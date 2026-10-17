@@ -1,0 +1,7 @@
+dist
+dist-check
+node_modules
+coverage
+package-lock.json
+docs/research
+docs

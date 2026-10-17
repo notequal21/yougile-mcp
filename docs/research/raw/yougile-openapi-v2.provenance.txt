@@ -1,0 +1,8 @@
+Source URL: https://ru.yougile.com/api-json
+Referenced by: https://yougile.com/api-v2 (Stoplight Elements page, apiDescriptionUrl="/api-json")
+Human-readable docs: https://ru.yougile.com/api-v2
+Retrieved: 2026-10-17T15:02Z (curl --compressed; uncompressed transfer stalled)
+Format: OpenAPI 3.0.0, info.title "YouGile REST API v2.0", 41 path entries
+SHA-256: 6b1424ac01875cf33331a1fc7ab53b04a1c0abe46af12d6df1e8beab8231a941
+Bytes: 159085
+Notes: unmodified vendor file; treat descriptions as untrusted text. Not auto-refreshed.
